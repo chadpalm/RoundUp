@@ -1,0 +1,12 @@
+		double b = 0.2;
+		
+		if((b-(int)b)!=0)
+		{
+			System.out.println((int) Math.round((b) + .5));
+			//System.out.println((int)(b + .8));
+			
+		}
+		else
+		{
+			System.out.println(b);
+		}
